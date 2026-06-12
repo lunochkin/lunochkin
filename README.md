@@ -24,6 +24,7 @@ Full-stack background — deep React, some Angular/Vue — currently backend + A
 
 ## Background
 
+- Founded and built [Titan Relay](https://github.com/lunochkin/dex) — a production DEX on the 0x protocol (2018–2021): TypeScript monorepo, 15 services, Kafka/Postgres/k8s, ~1,500 commits. Archived with a post-mortem on why the architecture outran the team.
 - 10+ years across fintech, retail SaaS, and high-traffic consumer platforms (US and international).
 - BSc (Hons) Mathematics & Statistics, First-Class — The Open University.
 - PhD-track postgraduate in mathematics (differential equations), completed 2008–2011; dissertation resumed 2025 — two MSU seminar talks since.
