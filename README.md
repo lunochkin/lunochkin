@@ -15,7 +15,7 @@ Independent practice and research builds — production patterns, engineering-fi
 ## Stack
 
 - **Languages** — TypeScript / Node.js · Go · Python · C# / .NET
-- **Distributed systems** — event-driven architectures · Temporal · SQS/SNS · Redis Streams · serverless
+- **Distributed systems** — event-driven architectures · Kafka · Temporal · SQS/SNS · Redis Streams · serverless
 - **AI engineering** — LLM integration · RAG · multi-agent orchestration · MCP · prompt engineering
 - **Cloud & infra** — AWS (Solutions Architect – Associate) · Azure · Kubernetes · Docker
 - **Data** — PostgreSQL · ClickHouse · Elasticsearch · MongoDB · Redis · pgvector
